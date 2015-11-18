@@ -7,3 +7,6 @@ repository? What value do you think it offers?
 - working director -> actual files
 - staging area -> files/changes to be commited
 - repository -> commited files
+
+How  can you use the staging area to make sure you have one commit per logical change?
+- only add one file after the other.
