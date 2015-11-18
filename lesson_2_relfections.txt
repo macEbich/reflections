@@ -1,0 +1,9 @@
+What  happens when you initialize a repository? Why do you need to do it?
+- .git is created
+-
+
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+- working director -> actual files
+- staging area -> files/changes to be commited
+- repository -> commited files
