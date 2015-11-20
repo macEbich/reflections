@@ -14,3 +14,9 @@ How  can you use the staging area to make sure you have one commit per logical c
 What are some situations when branches would be helpful in keeping your 
 history organized? How would branches help?
 - to test new features
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+- a new feature that was develped incrementally can be fully included in the 
+  main branch.
+
+
