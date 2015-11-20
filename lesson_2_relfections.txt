@@ -19,4 +19,6 @@ What is the result of merging two branches together? Why do we represent it in t
 - a new feature that was develped incrementally can be fully included in the 
   main branch.
 
-
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+- pro: less work to do for easy merges
+- cons: more work for complex merges
