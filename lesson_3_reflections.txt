@@ -9,4 +9,6 @@ Describe the differences between forks, clones, and branches. When would
 you use one instead of another?
 - forks if you dont have the permission for a github repository
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+- you know how far you are ahead of the remote repository
 
